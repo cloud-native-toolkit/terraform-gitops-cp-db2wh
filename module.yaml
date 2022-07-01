@@ -1,6 +1,6 @@
 name: gitops-cp-db2wh
 type: gitops
-description: Module to populate a gitops repo with the resources to provision cp-db2wh
+description: Module to populate a gitops repo with the resources to provision DB2 Warehouse instance using IBM Cloud Pak for Data
 tags:
   - tools
   - gitops
